@@ -2,12 +2,10 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
-
-## If you plan to collaborate with one or two classmates, what are their names?
-
-TODO
+1. Personalized workout generator
+2. Workout log and tracker
+3. DNA sequence analyzer
 
 ## Do you have any questions of your own?
 
-TODO
+not at the moment
