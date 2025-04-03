@@ -1,1 +1,1 @@
-# preposal
+The workout tracker would allow you to input each workout done with sets, reps, weight, etc, and store it in a file so you can track your progress. The personalized workout generator allows someone to input what muscles they'd like to focus on with their workouts and give a workout plan. The DNA sequence analyzer allows a user to input a string of dna nucleotides and find mutations
